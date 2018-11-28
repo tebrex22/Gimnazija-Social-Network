@@ -1,0 +1,15 @@
+Project Name: Gimnazija Social Network
+Devs: Ilija Rackov
+      Dejan Dudukovic
+Ideas: 	-Account System
+	-Main Public Feed(cela skola)
+	-Main Class Chat(w/ Chat Notifications za razrdnog)
+	-Parlament Chat(all included)
+	-"Referendum" Section
+	-napredak Section	
+Main Focus: 	1.VISUALS
+		2.MAIN PUBLIC FEED FUNCTIONALITY
+		3.CHAT FUNCTIONALITY
+		4.REFERENDUM AND NAPREDAK SECTION FUNCTIONALITY
+
+	
