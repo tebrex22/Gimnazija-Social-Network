@@ -2,7 +2,7 @@ Project Name: Gimnazija Social Network
 Devs: Ilija Rackov
       Dejan Dudukovic
       Kosta Balac
-Ideas: 	-Account System
+Ideas:  -Account System
 	-Main Public Feed(cela skola)
 	-Main Class Chat(w/ Chat Notifications za razrdnog)
 	-Parlament Chat(all included)
